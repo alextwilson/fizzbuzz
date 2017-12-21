@@ -1,1 +1,1 @@
-# Fizzbuzzgit  #
+# Fizzbuzz #
