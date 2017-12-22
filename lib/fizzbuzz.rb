@@ -1,8 +1,7 @@
 public def fizzbuzz
-  if self == 1
-    return "1"
-  elsif self == 2
-    return "2"
+  if self == 3
+      return "fizz"
+  else
+      return self.to_s
   end
-  return 'fizz'
 end

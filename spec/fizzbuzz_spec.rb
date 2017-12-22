@@ -12,4 +12,8 @@ describe 'fizzbuzz' do
   it 'returns "2" for the number 2' do
     expect(2.fizzbuzz).to eq '2'
   end
+
+  it 'returns "4" for the number 4' do
+    expect(4.fizzbuzz).to eq '4'
+  end
 end
